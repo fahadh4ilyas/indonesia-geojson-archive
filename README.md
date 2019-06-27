@@ -16,5 +16,6 @@ The files' source are from https://gadm.org/
 1. Rename some feature's `"NAME_1"` properties from `"Kalimantan Timur"` to `"Kalimantan Utara"` from geoJSON feature.
 2. Rename `"NAME_1"` properties from `"Jakarta Raya"` to `"DKI Jakarta"` from geoJSON feature.
 3. Rename `"NAME_1"` properties from `"Yogyakarta"` to `"DI Yogyakarta"` from geoJSON feature.
-4. Rearrange `"id"`, `"fid"`, `"GID_2"`, `"GID_3"`, and `"GID_4"` properties from geoJSON feature.
-5. Split `"Kalimantan Timur"` feature into 2 features, `"Kalimantan Timur"` and `"Kalimantan Utara"`.
+4. Rename `"NAME_1"` properties from `"Bangka Belitung"` to `"Kepulauan Bangka Belitung"` from geoJSON feature.
+5. Rearrange `"id"`, `"fid"`, `"GID_2"`, `"GID_3"`, and `"GID_4"` properties from geoJSON feature.
+6. Split `"Kalimantan Timur"` feature into 2 features, `"Kalimantan Timur"` and `"Kalimantan Utara"`.
